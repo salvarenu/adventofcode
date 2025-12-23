@@ -1,6 +1,4 @@
-﻿using AdventOfCode;
-
-namespace AdventOfCode2025
+﻿namespace AdventOfCode2025
 {
 	public class Day01
 	{
@@ -14,7 +12,7 @@ namespace AdventOfCode2025
 		public int Part1()
 		{
 
-			string[] input = fileOperations.ReadInput(".\\01\\input.txt");
+			string[] input = fileOperations.ReadInput(".\\input\\01.txt");
 
 			int position = 50;
 			int zeroTimes = 0;

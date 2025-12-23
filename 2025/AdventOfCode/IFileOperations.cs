@@ -1,4 +1,4 @@
-﻿namespace AdventOfCode
+﻿namespace AdventOfCode2025
 {
 	public interface IFileOperations
 	{

@@ -1,7 +1,6 @@
-﻿using AdventOfCode;
-using Moq;
+﻿using Moq;
 
-namespace AdventOfCode2025
+namespace AdventOfCode2025.Tests
 {
 	public class Day01Tests
 	{

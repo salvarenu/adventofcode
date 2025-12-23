@@ -1,4 +1,6 @@
-﻿namespace AdventOfCode.Console
+﻿using AdventOfCode2025;
+
+namespace AdventOfCode.Console
 {
 	internal class FileOperations : IFileOperations
 	{
