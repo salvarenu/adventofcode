@@ -6,7 +6,7 @@ namespace AdventOfCode.Console
 	{
 		public string[] ReadInput(string path)
 		{
-			return System.IO.File.ReadAllLines(path);
+			return File.ReadAllLines(path);
 		}
 	}
 }
