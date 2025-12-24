@@ -18,8 +18,14 @@ IFileOperations fileOperations = new FileOperations();
 
 //Console.WriteLine("Day 02 - Part 2 Result: " + day02.Part2());
 
-Day03 day03 = new Day03(fileOperations);
+//Day03 day03 = new Day03(fileOperations);
 
-Console.WriteLine("Day 03 - Part 1 Result: " + day03.Part1());
+//Console.WriteLine("Day 03 - Part 1 Result: " + day03.Part1());
 
-Console.WriteLine("Day 03 - Part 2 Result: " + day03.Part2());
+//Console.WriteLine("Day 03 - Part 2 Result: " + day03.Part2());
+
+Day04 day04 = new Day04(fileOperations);
+
+Console.WriteLine("Day 04 - Part 1 Result: " + day04.Part1());
+
+Console.WriteLine("Day 04 - Part 2 Result: " + day04.Part2());
